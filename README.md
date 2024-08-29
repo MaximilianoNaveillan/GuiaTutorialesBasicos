@@ -76,7 +76,7 @@ _(Los mismos pasos que en el tutorial anterior)_
 
 Reemplaza el contenido de la clase `MiPrimerPrograma` con el siguiente código:
 
-java
+```java
 public class MiPrimerPrograma {
 public static void main(String[] args) {
 // Declaración de variables
@@ -105,6 +105,7 @@ boolean esEstudiante = true;
     }
 
 }
+```
 
 #### 5. Ejecutar el programa:
 
@@ -175,7 +176,7 @@ _(Los mismos pasos que en los tutoriales anteriores)_
 
 #### 4. Escribir el código:
 
-java
+```java
 public class TomaDeDecisiones {
 public static void main(String[] args) {
 int edad = 25;
@@ -200,6 +201,7 @@ int edad = 25;
     }
 
 }
+```
 
 #### 5. Ejecutar el programa:
 
@@ -275,7 +277,7 @@ int edad = 25;
 
 #### 4. Escribir el código:
 
-java
+```java
 public class Repeticion {
 public static void main(String[] args) {
 // Bucle for
@@ -292,6 +294,7 @@ System.out.println("Iteración " + i);
     }
 
 }
+```
 
 #### Ejercicios adicionales:
 
