@@ -14,6 +14,8 @@
 
 ---
 
+[![Imagen del video](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKgmqPKrBzBR_HZk8xbdPeE2J9-SU1Z0Uqzte_ffxk7MLEyjDB)](https://www.youtube.com/watch?v=c9Lr9XkOAYA)
+
 #### 1. Descarga e Instalación de IntelliJ IDEA
 
 - **Visita la página oficial**: Dirígete a [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) y descarga la versión Community de IntelliJ IDEA (es gratuita).
